@@ -1,0 +1,2 @@
+Welcome to GitDemo!
+This is a sample file to demonstrate Git commands.
